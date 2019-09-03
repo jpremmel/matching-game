@@ -7,3 +7,7 @@ export function Game() {
 Game.prototype.increaseClickCount = function() {
   return this.clickCounter++;
 };
+
+Game.prototype.resetClickCount = function() {
+  return this.clickCounter = 0;
+}
