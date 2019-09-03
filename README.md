@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is a game where the user clicks on a card to display an image. Each turn, the user clicks two separate panels. The goal of the game is to find the matching panel to the initially clicked panel. If the wrong card (i.e. non-matching) _
 
 ## Setup/Installation Requirements
 
